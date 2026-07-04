@@ -1,0 +1,4 @@
+customtkinter>=5.2.0
+Pillow>=9.0.0
+# pandas + openpyxl 为可选依赖（Pro 版 Excel 导出需要）
+# 安装命令：pip install pandas openpyxl
