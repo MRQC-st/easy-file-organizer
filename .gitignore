@@ -32,3 +32,10 @@ batch_tool_config.json
 # Local data
 其他/
 文档/
+
+# 内部文档（不上传公开）
+docs/
+
+# 设计素材（非产品必需）
+icons/gemini_robot_1.png
+icons/gemini_robot_2.png
